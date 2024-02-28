@@ -1,6 +1,6 @@
 # PowerBi_proj2
- * PowerBi project *
-🎫 Data set:Electric Vehicle Population
+
+🎫Data set:Electric Vehicle Population
 
 📌Project Statment:
 Conducted in-depth analysis of electric vehicle population data, translating findings into a dynamic dashboard offering actionable insights and trends for informed decision-making.
